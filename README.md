@@ -27,6 +27,6 @@ I don't know.
 
 ## How did I start/'learn'?
 
-I get bored easily. I watch videos on YouTube and try to make stuff I'm interested in. The gave up on the last thing I worked on in [2019] because I had no idea how to properly make items for my mod in terms of functions. (Blocks, Entities, etc)
+I get bored easily. I watch videos on YouTube and try to make stuff I'm interested in. I used popular mods as reference for my [2019] project, but got stuck when it came to adding functions to Blocks, Entities, etc. 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ispoof&count_private=true&theme=dark&show_icons=true&border_radius=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
