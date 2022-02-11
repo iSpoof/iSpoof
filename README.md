@@ -12,21 +12,11 @@ I don't know.
 
 ## What have I accomplished? Projects?
 
-#### XX/XX/2011
-- Created a website.         
-- Made a game for a class project.
-                  
-#### XX/XX/2016
-- Created program to convert images from .RTTEX to .PNG for game "Growtopia". (Program lost; PC damaged because of power sruge)
-
-#### XX/XX/2019
-- Began making Minecraft Bedrock Edition mod. (On Hold - WIP)
-
-#### XX/XX/2021
-- nothing...
+#### XX/XX/2022
+- Dell Inspiron 15 7570 Hackintosh
 
 ## How did I start/'learn'?
 
-I get bored easily. I watch videos on YouTube and try to make stuff I'm interested in. I used popular mods as reference for my [2019] project, but got stuck when it came to adding functions to Blocks, Entities, etc. 
+I get bored easily. I watch videos on YouTube and try to make stuff I'm interested in.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ispoof&count_private=true&theme=dark&show_icons=true&border_radius=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
