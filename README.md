@@ -2,21 +2,23 @@
 
 I don't know.
 
-## What do I like?
+## What do I like?        
 
-#### Jailbreaking Apple devices
-- iPod Touch 4th Gen, iPad Mini 2, iPhone 6s, SE, & XR.          
+Doing anything I find interesting/fun.
 
-#### Run CFW on console devices
--  PS2, PSP, XBOX ONE, 2DS, & 3DS. 
+## What have I accomplished?
 
-## What have I accomplished? Projects?
+#### 2020
+##### Install CFW on consoles
+-  PS2, PSP, 2DS/3DS.
+##### Jailbreak
+- iPod 4th Gen, iPad Mini 2, iPad (8th Gen), iPad Pro (11, 2nd Gen), iPhone 6s, SE, & XR.
 
-#### XX/XX/2022
+#### 2022
 - Dell Inspiron 15 7570 Hackintosh
 
 ## How did I start/'learn'?
 
-I get bored easily. I watch videos on YouTube and try to make stuff I'm interested in.
+I get bored easily. I just follow guides/tutorials on things I find interesting.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ispoof&count_private=true&theme=dark&show_icons=true&border_radius=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
